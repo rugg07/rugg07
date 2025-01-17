@@ -45,7 +45,7 @@ Backend:
 </picture>
 
 <div align="center">
-  <img style="font-family: monospace; font-size: 24px;" src="https://profile-counter.glitch.me/rugg07/count.svg" alt="Total Contributions Count" />
+  <img src="https://custom-icon-badges.demolab.com/github/commit-activity/t/rugg07?style=for-the-badge&color=000000&labelColor=000000&label=Total%20Commits" alt="Total Commits"/>
 </div>
 
 
