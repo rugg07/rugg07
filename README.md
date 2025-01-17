@@ -45,7 +45,7 @@ Backend:
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/count?username=rugg07&theme=radical&hide_border=true" alt="Total Contributions" />
+  <img style="font-family: monospace; font-size: 24px;" src="https://profile-counter.glitch.me/rugg07/count.svg" alt="Total Contributions Count" />
 </div>
 
 
