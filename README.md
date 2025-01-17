@@ -5,11 +5,13 @@ Full-Stack Developer specializing in building modern web applications with cutti
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=rugg07&show_icons=true&theme=radical&hide_border=true" alt="Hrugved's GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugg07&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rugg07&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 💻 Most Used Languages
