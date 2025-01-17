@@ -4,26 +4,26 @@ Full-Stack Developer specializing in building modern web applications with cutti
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rugg07&show_icons=true&theme=radical&hide_border=true" alt="Hrugved's GitHub Stats" />
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rugg07&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rugg07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hrugved's GitHub Stats" />
 </div>
 
-## 💻 Most Used Languages
-
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugg07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugg07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </div>
 
-## 🏆 GitHub Trophies
-
+<!-- Most Used Languages -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rugg07&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugg07&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rugg07&theme=radical&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
