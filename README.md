@@ -10,11 +10,6 @@ Full-Stack Developer specializing in building modern web applications with cutti
 </div>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=rugg07&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rugg07&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
