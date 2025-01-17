@@ -44,11 +44,6 @@ Backend:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rugg07/rugg07/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/commit-activity/t/rugg07?style=for-the-badge&color=000000&labelColor=000000&label=Total%20Commits" alt="Total Commits"/>
-</div>
-
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrugved-pawar/)
