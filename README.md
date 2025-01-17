@@ -45,10 +45,9 @@ Backend:
 </picture>
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/last-commit/rugg07/rugg07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=history&logoColor=white&label=Last%20Updated" alt="Last Updated"/>
-  <img src="https://hits.sh/github.com/rugg07/rugg07.svg?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Visitors" alt="Visitors"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=graph&logoColor=white&label=Total%20Contributions&query=total_contributions&url=https://github-contributions-api.deno.dev/rugg07" alt="Total Contributions"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/count?username=rugg07&theme=radical&hide_border=true" alt="Total Contributions" />
 </div>
+
 
 ## 🤝 Let's Connect
 
